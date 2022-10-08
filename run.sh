@@ -1,1 +1,1 @@
-docker run -d --name wsserver -p 8080:8080 -p 80:80 websocket-demo
+docker run -d --name wsserver -p 8888:8080 -p 88:80 websocket-demo
